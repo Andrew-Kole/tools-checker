@@ -1,0 +1,14 @@
+{
+  "name": "tools-checker",
+  "version": "1.0.0",
+  "description": "It checks if we have installed different tools, like Git, Docker, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
